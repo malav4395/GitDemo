@@ -59,6 +59,16 @@ public class validateTitle extends base{
 		System.out.println(i);
 	}
 	
+	@Test
+	public void git_example_Final()
+	{
+		System.out.println("Example 1 Final ");
+		System.out.println("Example 2 Final ");
+		int i = 20;
+		i=i+20;
+		System.out.println(i);
+	}
+	
 	@AfterTest
 	public void teardown()
 	{
