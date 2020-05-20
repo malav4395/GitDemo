@@ -52,6 +52,13 @@ public class HomePage extends base{
 		
 		
 		}
+	
+	@Test
+	public void git_example()
+	{
+		System.out.println("Example 1");
+		System.out.println("Example 2");
+	}
 
 	@AfterTest
 	public void teardown()
