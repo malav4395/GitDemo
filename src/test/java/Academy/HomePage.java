@@ -58,6 +58,9 @@ public class HomePage extends base{
 	{
 		System.out.println("Example 1");
 		System.out.println("Example 2");
+		int i = 20;
+		i=i+20;
+		System.out.println(i);
 	}
 
 	@AfterTest
