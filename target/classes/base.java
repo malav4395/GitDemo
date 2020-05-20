@@ -25,6 +25,7 @@ FileInputStream fis=new FileInputStream("C:\\Selenium_Workspace\\Example\\src\\m
 prop.load(fis);
 String browserName=prop.getProperty("browser");
 System.out.println(browserName);
+System.out.println("Git example");
 
 if(browserName.equals("chrome"))
 {
