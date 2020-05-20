@@ -8,12 +8,7 @@ public class gitDEmo {
 		System.out.println("example gggit");
 	}
 	
-	@Test
-	public void test12()
-	{
-		System.out.println("example 22");
-	}
-	
+
 
 
 	
@@ -21,16 +16,6 @@ public class gitDEmo {
 	public void test21()
 	{
 		System.out.println("example 21");
-	}
-	@AfterTest
-	public void test22()
-	{
-		System.out.println("example 22");
-	}
-	@AfterTest
-	public void test23()
-	{
-		System.out.println("example 23");
 	}
 
 
