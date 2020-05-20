@@ -24,5 +24,17 @@ public class gitDEmo {
 		System.out.println("example 44");
 	}
 
+	
+	@AfterTest
+	public void test21()
+	{
+		System.out.println("example 21");
+	}
+	@AfterTest
+	public void test22()
+	{
+		System.out.println("example 22");
+	}
+
 
 }
